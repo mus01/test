@@ -1,0 +1,11 @@
+Starting Test
+	Login UserName: TesterSelenium4
+	Login Password: selenium4
+	Click on Login Button / Locator: MainContent_LoginUser_LoginButton
+	VP 1: Username on the page Home
+	Expected:TesterSelenium4
+	Obtained:TesterSelenium4
+	VP 2: Username on the page Selenium IDE
+	Expected:TesterSelenium4
+	Obtained:TesterSelenium4
+End Test

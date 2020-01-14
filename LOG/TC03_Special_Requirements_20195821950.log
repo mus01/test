@@ -1,0 +1,5 @@
+Starting Test
+	Login UserName: TesterSelenium4
+	Login Password: selenium4
+	Click on Login Button / Locator: MainContent_LoginUser_LoginButton
+Exception intercepted

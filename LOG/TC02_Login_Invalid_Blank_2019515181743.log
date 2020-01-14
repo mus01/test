@@ -1,0 +1,11 @@
+Starting Test
+	Enter Login UserName: empty
+	Enter Login Password: empty
+	Click on Login button
+	VP1/2 Expected: Error msg ==>User Name is required.
+	VP1/2 Obtained: Error msg ==>User Name is required.
+	VP1/2: PASS
+	VP2/2 Expected: Error msg ==>Password is required.
+	VP2/2 Obtained: Error msg ==>Password is required.
+	VP2/2: PASS
+End Test

@@ -1,0 +1,14 @@
+Starting Test
+	VP 1: Page Title
+	Expected:Home
+	Obtained:Home
+	VP 2: Page Text
+	Expected:Welcome to 4TestAutomation
+	Obtained:Welcome to 4TestAutomation
+	VP 3: User Name
+	Expected:TesterSelenium1
+	Obtained:TesterSelenium1
+	VP 4: Page Title
+	Expected:Log In
+	Obtained:Log In
+End Test
